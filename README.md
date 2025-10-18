@@ -26,4 +26,18 @@ FEATURES
 LIVE DEMO
 🔗 Live Site: (https://hng-profile-card-git-main-amans-projects-e0607037.vercel.app/)
 
-🔗 GitHub Repo: ()
+🔗GitHub Pages:(https://aman-0708.github.io/HNG-Profile-Card/)
+
+🔗 GitHub Repo: (https://github.com/Aman-0708/HNG-Profile-Card.git)
+
+GET STARTED
+
+First, clone this repository
+```
+https://github.com/Aman-0708/HNG-Profile-Card.git
+```
+Then, navigate to the project directory 
+```
+cd HNG-Profile-Card
+```
+Open the Project in your browser or code editor of choice ✅
