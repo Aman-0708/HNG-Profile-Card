@@ -46,6 +46,7 @@ p {
 
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
 }
 
 img {
@@ -103,4 +104,20 @@ ul {
 
 section {
     justify-content: space-around;
+}
+
+div {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    color: #7d8f69;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+a:hover{
+transform: scale(1.1);
 }

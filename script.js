@@ -1,3 +1,4 @@
+
 const timeDiv = document.getElementById('time');
 
 function updateTime() {
@@ -7,3 +8,5 @@ function updateTime() {
 
 updateTime();
 setInterval(updateTime, 1000);
+
+
