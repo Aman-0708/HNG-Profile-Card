@@ -13,7 +13,7 @@ TECHNOLOGIES USED
 
 🌟 CSS3: For styling and layout.
 
-🌟 Javascript for dynamic time rendering.
+🌟 Javascript for dynamic time rendering and form validation.
 
 FEATURES
 
