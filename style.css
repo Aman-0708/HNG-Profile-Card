@@ -114,7 +114,7 @@ div {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
     transition: 0.3s;
 }
