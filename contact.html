@@ -22,8 +22,7 @@
         <input id="subject" type="text" data-test-id="test-contact-subject" required><br>
 
         <label for="message">Message</label>
-        <textarea id="message" placeholder="drop a message" data-test-id="test-contact-message"
-            required></textarea><br>
+        <textarea id="message" minlength="10" placeholder="drop a message(at least 10 characters)" data-test-id="test-contact-message" required></textarea><br>
 
         <button type="submit" data-test-id="test-contact-submit">Submit</button>
         <p id="success" data-test-id="test-contact-success">Form Submitted Successfully</p>
